@@ -1,12 +1,11 @@
-gg.alert("ha")
-local keys = {
-  { key ="F84-UmFsZkNyYWZ0ZXI" },
-  { key ="F84-RlVDS0lORyBGQVJMSUdIVA" }
-}
-
 keylogi = gg.prompt({ "🇰 🇪 🇾 " }, {}, { "text" })
 
 function checkKey()
+  local keys = {
+    { key = "F84-UmFsZkNyYWZ0ZXI" },
+    { key = "F84-RlVDS0lORyBGQVJMSUdIVA" }
+  }
+  
   local enteredKey = keylogi[1]
   local isKeyValid = false
 
@@ -18,7 +17,7 @@ function checkKey()
   end
 
   if isKeyValid then
-    HOME()
+    VALIDkey = "true"
   else
     os.exit(print("Invalid key. Script execution stopped."))
   end
