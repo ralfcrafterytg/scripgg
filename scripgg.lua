@@ -1,4 +1,4 @@
-PISHING =[[
+
 KEYRS_1 ="F84-UmFsZkNyYWZ0ZXI"
 KEYRS_2 ="F84-RlVDS0lORyBGQVJMSUdIVA"
 
@@ -27,4 +27,3 @@ end
 end
 
 end
-]]
