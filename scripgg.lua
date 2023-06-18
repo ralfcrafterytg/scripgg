@@ -1,7 +1,5 @@
-
-
-local KEYST = [====[local keys = {
+gg.alert("ha")
+local keys = {
   { key ="F84-UmFsZkNyYWZ0ZXI" },
   { key ="F84-RlVDS0lORyBGQVJMSUdIVA" }
 }
-]====]
