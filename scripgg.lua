@@ -1,6 +1,14 @@
-local KEYSS = pas
-KEYRS_1 =[[F84-UmFsZkNyYWZ0ZXI]],[[1234]]
+KEYPS=[====[
+KEYRS_1 ="F84-UmFsZkNyYWZ0ZXI"
+KEYRS_2 ="1234"
+]====]
 
-if KEYSS == KEYRS_1 then 
+
+WRIKEP=[====[
+if pas[1] == KEYRS_1 then 
 PASHING = KEYRS_1
-end
+  end
+if pas[1] == KEYRS_2 then
+ PASHING = KEYRS_2 
+  end
+]====]
