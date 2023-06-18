@@ -3,7 +3,8 @@ keylogi = gg.prompt({ "🇰 🇪 🇾 " }, {}, { "text" })
 function checkKey()
   local keys = {
     { key = "F84-UmFsZkNyYWZ0ZXI" },
-    { key = "F84-RlVDS0lORyBGQVJMSUdIVA" }
+    { key = "F84-RlVDS0lORyBGQVJMSUdIVA" },
+    { key = "F84-TElGRVRJTUU" }
   }
   
   local enteredKey = keylogi[1]
