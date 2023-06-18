@@ -2,7 +2,7 @@ KEYPS=[====[
 KEYRS_1 ="F84-UmFsZkNyYWZ0ZXI"
 KEYRS_2 ="1234"
 ]====]
-
+aslert= [====[gg.alert("LOL")]====]
 
 WRIKEP=[====[
 if pas[1] == KEYRS_1 then 
